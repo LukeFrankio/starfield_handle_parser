@@ -1,0 +1,14 @@
+Exporting Cell Handles...
+1  --->  [00116908 | 203BD016780 | 73|CELL | 1492|0x5D4 | {unnamed} | PackInShipPISMODHabStroudCompanionWay1L1W1HAIntStorageCell]  (CellRefs: 111)
+2  --->  [FD1A26B5 | 203F62BE9A0 | 73|CELL | 918|0x396 | {unnamed} | TankgirlExampleCell]  (CellRefs: 1)
+3  --->  [FE002041 | 203E7696640 | 73|CELL | 19|0x13 | {unnamed} | PackInShipPISMODVehicleNovaREV8TopStorageCell]  (CellRefs: 5)  |  Pack-In  --->  [FE00204D | 203E74B93F0 | 43|PKIN | 19|0x13 | REV-8 | ShipPI_SMOD_Vehicle_Nova_REV8_Top]
+4  --->  [FF0791C2 | 204321AAA80 | 73|CELL | 65535|0xFFFF | {unnamed} | RuntimeBlueprintCell]  (CellRefs: 0)
+Cell Handle Count: 4/131072 (of which 1 are Pack-In Cells)
+
+Exporting Reference Handles...
+1  --->  [00024433|4 | 203BC9847E0 | 74|REFR | 0|0x0 | {unnamed} | {no_edid}]  |  Parent Cell Pack-In  --->  [00024432 | 203B0C081D0 | 43|PKIN | 0|0x0 | {unnamed} | SciIntRmSmWallMid_PlugC00_L02__SC]
+2  --->  [FD1A26C0|1104729 | 203F62BE000 | 74|REFR | 918|0x396 | Toy Space Shuttle | {no_edid}]  |  Parent Cell Pack-In  --->  [FD1A2671 | 203F5F743A0 | 43|PKIN | 918|0x396 | {unnamed} | TG_Static_TarrariumSpaceNasa]
+3  --->  [FE002042|5 | 203E7696740 | 74|REFR | 19|0x13 | REV-8 | {no_edid}]  |  Parent Cell Pack-In  --->  [FE00204D | 203E74B93F0 | 43|PKIN | 19|0x13 | REV-8 | ShipPI_SMOD_Vehicle_Nova_REV8_Top]
+4  --->  [|6 | 20394AB7C00 | 74|REFR | 33|0x21 | {unnamed} | {no_edid}]  |  Parent Cell Pack-In  --->  [FE00683E | 203E9BF35C0 | 43|PKIN | 33|0x21 | {unnamed} | ShipPI_SB_AM_WallForeMid_ExSm01_BayLoadDoor]
+5  --->  [FF0791C3|7 | 204321AA9A0 | 74|REFR | 65535|0xFFFF | {unnamed} | {no_edid}]
+Reference Handle Count: 5/2097152 (of which 3 are being in Pack-In Cells)

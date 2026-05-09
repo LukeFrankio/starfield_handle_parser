@@ -1,0 +1,5 @@
+0  0     Starfield.esm
+1  1     ShatteredSpace.esm
+253 FD  1a tankgirlsxenologyexpanded.esm
+254 FE  2 SFBGS004.esm
+254 FE  6 sfbgs009.esm
