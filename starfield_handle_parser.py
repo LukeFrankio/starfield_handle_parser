@@ -610,7 +610,7 @@ def _rows_to_json(
     ⚠️ IMPURE FUNCTION (performs file I/O)
     """
 
-    payload = {
+    payload: dict[str, object] = {
         "dump_path": str(dump_path),
         "load_order_path": str(load_order_path),
         "totals": asdict(totals),
